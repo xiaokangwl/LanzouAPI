@@ -1,3 +1,7 @@
+# 修改说明
+基于作者的源代码基础上增加了获取，作者、文件描述、文件系统
+
+
 # LanzouAPI
 <a href="https://github.com/hanximeng/LanzouAPI/archive/refs/heads/master.zip">下载源码</a>
 ## 演示地址：
